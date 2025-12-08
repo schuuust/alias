@@ -1,0 +1,22 @@
+## Quality of life
+alias ..='cd ..'
+alias ...='cd ../../../'
+alias ....='cd ../../../../'
+alias .....='cd ../../../../'
+alias c="clear"
+alias h="history"
+alias updatey="sudo apt-get --yes"
+
+## Dockerisms
+alias d="docker"
+alias dps="docker ps"
+alias dpsq="docker ps -q"
+alias dstop="docker stop"
+alias dcom="docker compose"
+
+## Gitisms
+alias g="git"
+alias gpl="git pull"
+alias gf="git fetch"
+alias gs="git status"
+
