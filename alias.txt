@@ -6,6 +6,8 @@ alias .....='cd ../../../../'
 alias c="clear"
 alias h="history"
 alias updatey="sudo apt-get --yes"
+alias wifis="nmcli dev wifi"
+alias venvy="source venv/bin/activate"
 
 ## Dockerisms
 alias d="docker"
